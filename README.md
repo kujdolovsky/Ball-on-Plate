@@ -1,4 +1,4 @@
-# 🔧 Stolik balansujący kulką (Ball on Plate)
+# Stolik balansujący kulką (Ball on Plate)
 
 ## 📌 Opis
 Projekt układu sterowania stolikiem balansującym kulką z wykorzystaniem manipulatora 3RRS, regulatora PID oraz mikrokontrolera Arduino UNO.  
