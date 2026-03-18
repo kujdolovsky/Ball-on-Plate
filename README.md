@@ -52,7 +52,7 @@ Celem było stabilizowanie kulki w zadanym punkcie oraz realizacja prostych traj
 
 ### Trajektorie ruchu
 - poprawna realizacja ruchu po okręgu i kwadracie
-- zgodność z wartością zadaną
+- ograniczona dokładność
 
 <img width="300" src="https://github.com/user-attachments/assets/6d6e8734-25c3-461f-b381-3cc0a7beb066" />
 
