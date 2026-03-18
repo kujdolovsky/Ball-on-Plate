@@ -77,9 +77,6 @@ Układ stabilizuje kulkę, kompensuje zakłócenia oraz realizuje zadane trajekt
 ## 📉 Ograniczenia
 - odchyłka statyczna do ~5 mm w stanie ustalonym
 - ograniczona dokładność kreślenia trajektorii
+- czas pracy urządzenia z uwagi na wydzielane ciepło
 
 
----
-
-## 📄 Raport
-[Pełny raport PDF](./raport.pdf)
